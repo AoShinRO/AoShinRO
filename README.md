@@ -1,6 +1,6 @@
 <div align="center">  
   
-# ⚔️ AoShinRO  
+# ⚔️ AoShinHo  
   
 **Game Developer • Emulator Engineer • Open Source Contributor**  
   
