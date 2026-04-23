@@ -10,12 +10,12 @@ Passionate about Ragnarok Online development, building tools, emulators, and web
   
 <table>  
 <tr>  
-<td align="center" width="40%">  
+<td align="center" width="20%">  
   
 <img src="https://c.tenor.com/pyJra-hS6WQAAAAC/tenor.gif" width="150" />  
 
 </td>  
-<td width="60%">  
+<td width="80%">  
   
 I maintain several open-source projects that help the Ragnarok Online community worldwide.  
 If my work has been useful to you, consider supporting me so I can keep contributing!  
