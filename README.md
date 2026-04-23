@@ -1,4 +1,152 @@
-## Hi there 👋
+<div align="center">  
+  
+# ⚔️ AoShinRO  
+  
+**Game Developer • Emulator Engineer • Open Source Contributor**  
+  
+Passionate about Ragnarok Online development, building tools, emulators, and web-based clients for the community.  
+
+---
+
+### 💚 Support My Work  
+  
+I maintain several open-source projects that help the Ragnarok Online community worldwide.  
+If my work has been useful to you, consider supporting me so I can keep contributing!  
+  
+<table>  
+<tr>  
+<td align="center" width="50%">  
+  
+#### 🇧🇷 Doadores Brasileiros  
+  
+**PIX**<br/> 
+Chave: `4bab1581-62bd-4ef9-9ca2-226a08f1fed8`<br/>  
+Chave: `roger-marin@outlook.com.br`<br/>
+QRCode:
+<img width="540" height="963" alt="image" src="https://github.com/user-attachments/assets/697bb619-3ddd-4289-a185-295814f60bac" />
+
+<sub>Copie a chave acima e cole no seu app de banco</sub>  
+  
+</td>  
+<td align="center" width="50%">  
+  
+#### 🌍 International Donors  
+  
+**Coming Soon**  
+  
+<sub>International donation methods are being set up.<br/>Stay tuned!</sub>  
+  
+</td>  
+</tr>  
+</table>  
+  
+<sub>Every contribution, no matter how small, helps keep these projects alive and actively maintained. Thank you! 🙏</sub>  
+  
+---  
+  
+### 🛠️ Tech Stack  
+  
+<table>  
+<tr>  
+<td align="center" width="140">  
+  
+**Languages**  
+  
+</td>  
+<td>  
+  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
+  
+</td>  
+</tr>  
+<tr>  
+<td align="center">  
+  
+**Frontend & UI**  
+  
+</td>  
+<td>  
+  
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+  
+</td>  
+</tr>  
+<tr>  
+<td align="center">  
+  
+**Frameworks & Runtime**  
+  
+</td>  
+<td>  
+  
+![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+  
+</td>  
+</tr>  
+<tr>  
+<td align="center">  
+  
+**Database & Infra**  
+  
+</td>  
+<td>  
+  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
+  
+</td>  
+</tr>  
+<tr>  
+<td align="center">  
+  
+**Platforms**  
+  
+</td>  
+<td>  
+  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)  
+![Web](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)  
+  
+</td>  
+</tr>  
+</table>  
+  
+---  
+  
+### 🔥 Featured Projects  
+  
+| Project | Description | Stack |  
+|:--------|:------------|:------|  
+| [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based Ragnarok Online client with WebGL rendering | `JavaScript` `WebGL` `Vite` `Node.js` |  
+| [**brHades**](https://github.com/AoShinRO/brHades) | (Private) High-performance RO server emulator for the Brazilian community | `C++20` `MySQL` `CMake` |  
+| [**ROServMonitor**](https://github.com/AoShinRO/ROServMonitor) | WPF desktop app for managing rAthena/brHades servers | `C#` `WPF` `.NET` |  
+| [**SharpPatcher**](https://github.com/AoShinRO/SharpPatcher) | (Private) Modern autopatcher & launcher with anti-cheat | `C#` `WPF` `C++` |  
+| [**KafraPacketSeeker**](https://github.com/AoShinRO/KafraPacketSeeker) | Winsock packet interceptor for protocol analysis | `C++17` `Win32` |  
+| [**AzzyAI-RE**](https://github.com/AoShinRO/AzzyAI-RE) | Advanced Homunculus/Mercenary AI for modern RO clients | `Lua` |  
+  
+---  
+  
+### 📊 GitHub Stats  
+  
+<img src="https://github-readme-stats.vercel.app/api?username=AoShinRO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AoShinRO&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />  
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoShinRO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%" />  
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />  
+  
+</div>
 
 <!--
 **AoShinRO/AoShinRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
