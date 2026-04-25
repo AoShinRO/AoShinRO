@@ -3,11 +3,24 @@
 # ⚔️ AoShinHo
   
 **Game Developer • Emulator Engineer • Open Source Contributor**  
-  
-Passionate about Ragnarok Online development, building tools, emulators, and web-based clients for the community.  
+
+---
+
+### Looking for a Job
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Unemployed-ff4d4d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Available-Full--Time%20%7C%20Contract%20%7C%20Freelance-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-5865F2?style=for-the-badge" />
+</p>
+
+Currently unemployed and actively looking for a fixed position, temporary contract, or freelance work.  
+Available immediately for remote opportunities.
+
+---
 
 ### 💚 Support My Work  
-  
+Passionate about Ragnarok Online development, building tools, emulators, and web-based clients for the community.  
 <table>  
 <tr>  
 <td align="center" width="20%">  
