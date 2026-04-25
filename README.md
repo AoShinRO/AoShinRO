@@ -31,6 +31,10 @@
 I'm currently unemployed and available for full-time, contract, temporary, or freelance work.  
 Available immediately.
 
+🇧🇷 Brazil (GMT-3)  
+🇺🇸 Portuguese / English  
+⚡ Usually replies within a few hours
+
 ---
 
 ### 💚 Support My Work  
