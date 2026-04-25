@@ -143,9 +143,7 @@ If my work has been useful to you, consider supporting me so I can keep contribu
 | Project | Description | Stack |  
 |:--------|:------------|:------|  
 | [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based Ragnarok Online client with WebGL rendering | `JavaScript` `WebGL` `Vite` `Node.js` |  
-| [**brHades**](https://github.com/AoShinRO/brHades) | (Private) High-performance RO server emulator for the Brazilian community | `C++20` `MySQL` `CMake` |  
 | [**ROServMonitor**](https://github.com/AoShinRO/ROServMonitor) | WPF desktop app for managing rAthena/brHades servers | `C#` `WPF` `.NET` |  
-| [**SharpPatcher**](https://github.com/AoShinRO/SharpPatcher) | (Private) Modern autopatcher & launcher with anti-cheat | `C#` `WPF` `C++` |  
 | [**KafraPacketSeeker**](https://github.com/AoShinRO/KafraPacketSeeker) | Winsock packet interceptor for protocol analysis | `C++17` `Win32` |  
 | [**AzzyAI-RE**](https://github.com/AoShinRO/AzzyAI-RE) | Advanced Homunculus/Mercenary AI for modern RO clients | `Lua` |  
   
