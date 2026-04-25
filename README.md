@@ -6,7 +6,7 @@
 
 ---
 
-### Looking for a Job
+### 🚨 Looking for a Job
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Unemployed-ff4d4d?style=for-the-badge" />
@@ -14,8 +14,22 @@
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-5865F2?style=for-the-badge" />
 </p>
 
-Currently unemployed and actively looking for a fixed position, temporary contract, or freelance work.  
-Available immediately for remote opportunities.
+### 📫 Contact
+
+<p align="center">
+  <a href="mailto:roger-marin@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-roger--marin%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/Discord-AoShinHo%237544-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5528992781096">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B55%2028%2099278--1096-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+I'm currently unemployed and available for full-time, contract, temporary, or freelance work.  
+Available immediately.
 
 ---
 
