@@ -9,7 +9,6 @@
 ### 🚨 Looking for a Job
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Unemployed-ff4d4d?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Available-Full--Time%20%7C%20Contract%20%7C%20Freelance-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-5865F2?style=for-the-badge" />
 </p>
