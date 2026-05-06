@@ -27,61 +27,11 @@
   </a>
 </p>
 
-I'm currently unemployed and available for full-time, contract, temporary, or freelance work.  
-Available immediately.
+I'm currently available for full-time, contract, temporary, or freelance work.  
 
 🇧🇷 Brazil (GMT-3)  
 🇺🇸 Portuguese / English  
 ⚡ Usually replies within a few hours
-
----
-
-### 💚 Support My Work  
-Passionate about Ragnarok Online development, building tools, emulators, and web-based clients for the community.  
-<table>  
-<tr>  
-<td align="center" width="20%">  
-  
-<img src="https://c.tenor.com/pyJra-hS6WQAAAAC/tenor.gif" width="150" />  
-
-</td>  
-<td width="80%">  
-  
-I maintain several open-source projects that help the Ragnarok Online community worldwide.  
-If my work has been useful to you, consider supporting me so I can keep contributing!  
-  
-</td>  
-</tr>  
-</table>
-  
-<table>  
-<tr>  
-<td align="center" width="50%">  
-  
-#### 🇧🇷 Doadores Brasileiros  
-  
-**PIX**</br>
-**chave**: `4bab1581-62bd-4ef9-9ca2-226a08f1fed8`</br>
-**QRCode**:</br>
-<img alt="image" width="80%" src="https://github.com/user-attachments/assets/13c74b65-755a-4c03-a107-661ffbe386e1" />
-
-
-<sub>Copie a chave acima e cole no seu app de banco</sub>  
-  
-</td>  
-<td align="center" width="50%">  
-  
-#### 🌍 International Donors  
-  
-**Coming Soon**  
-  
-<sub>International donation methods are being set up.<br/>Stay tuned!</sub>  
-  
-</td>  
-</tr>  
-</table>  
-  
-<sub>Every contribution, no matter how small, helps keep these projects alive and actively maintained. Thank you! 🙏</sub>  
 
 ---  
   
@@ -145,16 +95,60 @@ If my work has been useful to you, consider supporting me so I can keep contribu
 | [**ROServMonitor**](https://github.com/AoShinRO/ROServMonitor) | WPF desktop app for managing rAthena/brHades servers | `C#` `WPF` `.NET` |  
 | [**KafraPacketSeeker**](https://github.com/AoShinRO/KafraPacketSeeker) | Winsock packet interceptor for protocol analysis | `C++17` `Win32` |  
 | [**AzzyAI-RE**](https://github.com/AoShinRO/AzzyAI-RE) | Advanced Homunculus/Mercenary AI for modern RO clients | `Lua` |  
+
+---
+
+### 💚 Support My Work  
+Passionate about Ragnarok Online development, building tools, emulators, and web-based clients for the community.  
+<table>  
+<tr>  
+<td align="center" width="20%">  
   
+<img src="https://c.tenor.com/pyJra-hS6WQAAAAC/tenor.gif" width="150" />  
+
+</td>  
+<td width="80%">  
+  
+I maintain several open-source projects that help the Ragnarok Online community worldwide.  
+If my work has been useful to you, consider supporting me so I can keep contributing!  
+  
+</td>  
+</tr>  
+</table>
+  
+<table>  
+<tr>  
+<td align="center" width="50%">  
+  
+#### 🇧🇷 Doadores Brasileiros  
+  
+**PIX**</br>
+**Chave**: `4bab1581-62bd-4ef9-9ca2-226a08f1fed8`</br>
+
+<sub>Copie a chave acima e cole no seu app de banco</sub>  
+  
+</td>  
+<td align="center" width="50%">  
+  
+#### 🌍 International Donors  
+  
+**Coming Soon**  
+  
+<sub>International donation methods are being set up.<br/>Stay tuned!</sub>  
+  
+</td>  
+</tr>  
+</table>  
+  
+<sub>Every contribution, no matter how small, helps keep these projects alive and actively maintained. Thank you! 🙏</sub>  
+
 ---  
   
 ### 📊 GitHub Stats  
   
-<img src="https://github-readme-stats.vercel.app/api?username=AoShinRO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AoShinRO&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />  
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoShinRO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%" />  
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />  
-  
+ 
 </div>
+
