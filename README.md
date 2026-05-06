@@ -19,7 +19,7 @@
   <a href="mailto:roger-marin@hotmail.com">
     <img src="https://img.shields.io/badge/Email-roger--marin%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/">
+  <a href="https://discord.com/users/aoshinho">
     <img src="https://img.shields.io/badge/Discord-AoShinHo%237544-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://wa.me/5528992781096">
