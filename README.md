@@ -91,10 +91,15 @@ I'm currently available for full-time, contract, temporary, or freelance work.
   
 | Project | Description | Stack |  
 |:--------|:------------|:------|  
+| [**ROServMonitor**](https://github.com/AoShinRO/ROServMonitor) | Desktop monitoring and management tool, focused on observability and operational control. | `C#` `WPF` `.NET` |  
+| [**KafraPacketSeeker**](https://github.com/AoShinRO/KafraPacketSeeker) | Winsock packet interception and protocol analysis tool for debugging client/server communication. | `C++17` `Win32` |  
+| [**RO-DB-Translator**](https://github.com/AoShinRO/RO-DB-Translator) | Advanced Homunculus/Mercenary AI | `C#` `WPF` `.NET` |  
 | [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based game client with WebGL rendering | `JavaScript` `WebGL` `Vite` `Node.js` |  
-| [**ROServMonitor**](https://github.com/AoShinRO/ROServMonitor) | WPF desktop app for managing legacy game servers | `C#` `WPF` `.NET` |  
-| [**KafraPacketSeeker**](https://github.com/AoShinRO/KafraPacketSeeker) | Winsock packet interceptor for protocol analysis | `C++17` `Win32` |  
-| [**AzzyAI-RE**](https://github.com/AoShinRO/AzzyAI-RE) | Advanced Homunculus/Mercenary AI | `Lua` |  
+
+## Additional Private Projects
+
+#### Desktop patch distribution system with asynchronous asset synchronization, archive processing, encrypted credential persistence and runtime integrations.
+#### Runtime Discord Rich Presence integration with injectable Discord SDK.
 
 ---  
   
