@@ -2,7 +2,7 @@
   
 # ⚔️ AoShinHo
   
-**Game Developer • Emulator Engineer • Open Source Contributor**  
+**Software Engineer • Legacy Systems • Tooling • QA Automation**  
 
 ---
 
@@ -95,52 +95,6 @@ I'm currently available for full-time, contract, temporary, or freelance work.
 | [**ROServMonitor**](https://github.com/AoShinRO/ROServMonitor) | WPF desktop app for managing rAthena/brHades servers | `C#` `WPF` `.NET` |  
 | [**KafraPacketSeeker**](https://github.com/AoShinRO/KafraPacketSeeker) | Winsock packet interceptor for protocol analysis | `C++17` `Win32` |  
 | [**AzzyAI-RE**](https://github.com/AoShinRO/AzzyAI-RE) | Advanced Homunculus/Mercenary AI for modern RO clients | `Lua` |  
-
----
-
-### 💚 Support My Work  
-Passionate about Ragnarok Online development, building tools, emulators, and web-based clients for the community.  
-<table>  
-<tr>  
-<td align="center" width="20%">  
-  
-<img src="https://c.tenor.com/pyJra-hS6WQAAAAC/tenor.gif" width="150" />  
-
-</td>  
-<td width="80%">  
-  
-I maintain several open-source projects that help the Ragnarok Online community worldwide.  
-If my work has been useful to you, consider supporting me so I can keep contributing!  
-  
-</td>  
-</tr>  
-</table>
-  
-<table>  
-<tr>  
-<td align="center" width="50%">  
-  
-#### 🇧🇷 Doadores Brasileiros  
-  
-**PIX**</br>
-**Chave**: `4bab1581-62bd-4ef9-9ca2-226a08f1fed8`</br>
-
-<sub>Copie a chave acima e cole no seu app de banco</sub>  
-  
-</td>  
-<td align="center" width="50%">  
-  
-#### 🌍 International Donors  
-  
-**Coming Soon**  
-  
-<sub>International donation methods are being set up.<br/>Stay tuned!</sub>  
-  
-</td>  
-</tr>  
-</table>  
-  
-<sub>Every contribution, no matter how small, helps keep these projects alive and actively maintained. Thank you! 🙏</sub>  
 
 ---  
   
