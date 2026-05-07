@@ -93,13 +93,15 @@ I'm currently available for full-time, contract, temporary, or freelance work.
 |:--------|:------------|:------|  
 | [**ROServMonitor**](https://github.com/AoShinRO/ROServMonitor) | Desktop monitoring and management tool, focused on observability and operational control. | `C#` `WPF` `.NET` |  
 | [**KafraPacketSeeker**](https://github.com/AoShinRO/KafraPacketSeeker) | Winsock packet interception and protocol analysis tool for debugging client/server communication. | `C++17` `Win32` |  
-| [**RO-DB-Translator**](https://github.com/AoShinRO/RO-DB-Translator) | Advanced Homunculus/Mercenary AI | `C#` `WPF` `.NET` |  
-| [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based game client with WebGL rendering | `JavaScript` `WebGL` `Vite` `Node.js` |  
+| [**RO-DB-Translator**](https://github.com/AoShinRO/RO-DB-Translator) | Desktop utility that translates database files from server YML format into different languages using third-party API. | `C#` `WPF` `.NET` |  
+| [**RO-Setup-Finder**](https://github.com/AoShinRO/RO-Setup-Finder) | Automated crawler and validation pipeline for discovering and indexing legacy client distribution links. | `Python` `CI` |  
+| [**RO-Ragexe**](https://github.com/AoShinRO/RO-Ragexe) | Automated extraction and archival tool for processing legacy client setup packages and publishing versioned binaries. | `Python` `CI` |  
+| [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based game client with WebGL rendering modernized from RequireJS+lightDOM to ES6+ShadowDOM. | `JavaScript` `WebGL` `Vite` `Node.js` |  
 
 ## Additional Private Projects
 
 #### Desktop patch distribution system with asynchronous asset synchronization, archive processing, encrypted credential persistence and runtime integrations.
-#### Runtime Discord Rich Presence integration with injectable Discord SDK.
+#### Discord Rich Presence runtime integration for desktop game clients.
 
 ---  
   
