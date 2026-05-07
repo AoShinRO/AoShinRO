@@ -91,10 +91,10 @@ I'm currently available for full-time, contract, temporary, or freelance work.
   
 | Project | Description | Stack |  
 |:--------|:------------|:------|  
-| [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based Ragnarok Online client with WebGL rendering | `JavaScript` `WebGL` `Vite` `Node.js` |  
-| [**ROServMonitor**](https://github.com/AoShinRO/ROServMonitor) | WPF desktop app for managing rAthena/brHades servers | `C#` `WPF` `.NET` |  
+| [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based game client with WebGL rendering | `JavaScript` `WebGL` `Vite` `Node.js` |  
+| [**ROServMonitor**](https://github.com/AoShinRO/ROServMonitor) | WPF desktop app for managing legacy game servers | `C#` `WPF` `.NET` |  
 | [**KafraPacketSeeker**](https://github.com/AoShinRO/KafraPacketSeeker) | Winsock packet interceptor for protocol analysis | `C++17` `Win32` |  
-| [**AzzyAI-RE**](https://github.com/AoShinRO/AzzyAI-RE) | Advanced Homunculus/Mercenary AI for modern RO clients | `Lua` |  
+| [**AzzyAI-RE**](https://github.com/AoShinRO/AzzyAI-RE) | Advanced Homunculus/Mercenary AI | `Lua` |  
 
 ---  
   
