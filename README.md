@@ -4,6 +4,8 @@
   
 **Software Engineer • Legacy Systems • Tooling • QA Automation**  
 
+> “AoShinHo” is a long-standing online alias used across open-source and development communities.
+
 ---
 
 ### 🚨 Looking for a Job
