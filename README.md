@@ -98,7 +98,7 @@ I'm currently available for full-time, contract, temporary, or freelance work.
 | [**RO-DB-Translator**](https://github.com/AoShinRO/RO-DB-Translator) | Desktop utility that translates database files from server YML format into different languages using third-party API. | `C#` `WPF` `.NET` |  
 | [**RO-Setup-Finder**](https://github.com/AoShinRO/RO-Setup-Finder) | Automated crawler and validation pipeline for discovering and indexing legacy client distribution links. | `Python` `CI` |  
 | [**RO-Ragexe**](https://github.com/AoShinRO/RO-Ragexe) | Automated extraction and archival tool for processing legacy client setup packages and publishing versioned binaries. | `Python` `CI` |  
-| [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based game client with WebGL rendering modernized from RequireJS+lightDOM to ES6+ShadowDOM. | `JavaScript` `WebGL` `Vite` `Node.js` |  
+| [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based Ragnarok client (WebGL). Led the RequireJS/AMD → ES6 modules migration (PR #979, ~91k lines changed), NW.js → Electron port with unlocked FPS, and a memory pipeline (MemoryManager.clean/forceClean via requestIdleCallback) that keeps a full 3D client from OOM on 4GB RAM. | `JavaScript` `WebGL` `Vite` `Node.js` |  
 
 ## Additional Private Projects
 
