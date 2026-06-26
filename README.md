@@ -1,6 +1,6 @@
 <div align="center">  
   
-# ⚔️ AoShinHo
+# ⚔️ Roger Marin (AoShinHo)
   
 **Software Engineer • Legacy Systems • Tooling • QA Automation**  
 
@@ -99,11 +99,6 @@ I'm currently available for full-time, contract, temporary, or freelance work.
 | [**RO-Setup-Finder**](https://github.com/AoShinRO/RO-Setup-Finder) | Automated crawler and validation pipeline for discovering and indexing legacy client distribution links. | `Python` `CI` |  
 | [**RO-Ragexe**](https://github.com/AoShinRO/RO-Ragexe) | Automated extraction and archival tool for processing legacy client setup packages and publishing versioned binaries. | `Python` `CI` |  
 | [**roBrowserLegacy**](https://github.com/AoShinRO/roBrowserLegacy) | Web-based Ragnarok client (WebGL). Led the RequireJS/AMD → ES6 modules migration (PR #979, ~91k lines changed), NW.js → Electron port with unlocked FPS, and a memory pipeline (MemoryManager.clean/forceClean via requestIdleCallback) that keeps a full 3D client from OOM on 4GB RAM. | `JavaScript` `WebGL` `Vite` `Node.js` |  
-
-## Additional Private Projects
-
-#### Desktop patch distribution system with asynchronous asset synchronization, archive processing, encrypted credential persistence and runtime integrations.
-#### Discord Rich Presence runtime integration for desktop game clients.
 
 ---  
   
