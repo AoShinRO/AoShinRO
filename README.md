@@ -104,9 +104,9 @@ I'm currently available for full-time, contract, temporary, or freelance work.
   
 ### 📊 GitHub Stats  
 
-| Status | TopLangs |  
-|:--------|:------|  
-![Stats](./profile/stats.svg) | ![Langs](./profile/top-langs.svg)
+| Status | Contributions | TopLangs |  
+|:--------|:------|:------|  
+![Stats](./profile/stats.svg) | <img src="https://streak-stats.demolab.com/?user=AoShinRO&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />   | ![Langs](./profile/top-langs.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />  
  
