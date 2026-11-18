@@ -32,8 +32,11 @@
 I'm currently available for full-time, contract, temporary, or freelance work.  
 
 🇧🇷 Brazil (GMT-3)  
+
 🇺🇸 Portuguese / English  
+
 ⚡ Usually replies within a few hours 
+
 💸 Donate - PIX: 4bab1581-62bd-4ef9-9ca2-226a08f1fed8
 
 ---  
